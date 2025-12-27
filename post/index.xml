@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Ip2867</title>
-    <link>https://nanakusa77.github.io/ip2867.github-io/post/</link>
+    <link>https://ip2867.github.io/post/</link>
     <description>Recent content from Ip2867</description>
     <generator>Hugo</generator>
     <language>zh-CN</language>
@@ -15,7 +15,7 @@
     <lastBuildDate>Sat, 27 Dec 2025 17:02:27 +0800</lastBuildDate>
     
     
-    <atom:link href="https://nanakusa77.github.io/ip2867.github-io/post/index.xml" rel="self" type="application/rss&#43;xml" />
+    <atom:link href="https://ip2867.github.io/post/index.xml" rel="self" type="application/rss&#43;xml" />
     
 
     
@@ -23,16 +23,16 @@
 
     <item>
       <title>One</title>
-      <link>https://nanakusa77.github.io/ip2867.github-io/post/one/</link>
+      <link>https://ip2867.github.io/post/one/</link>
       <pubDate>Sat, 27 Dec 2025 17:02:27 &#43;0800</pubDate>
       <author>xxx@example.com (栗悟饭与龟波功)</author>
-      <guid>https://nanakusa77.github.io/ip2867.github-io/post/one/</guid>
+      <guid>https://ip2867.github.io/post/one/</guid>
       <description>
         <![CDATA[<h1>One</h1><p>作者：栗悟饭与龟波功（xxx@example.com）</p>
         
           <p>好累啊，创建了好久，好像成功了，希望自己以后多发博客吧</p>
         
-        <hr><p>本文2025-12-27首发于<a href='https://nanakusa77.github.io/ip2867.github-io/'>Ip2867</a>，最后修改于2025-12-27</p>]]>
+        <hr><p>本文2025-12-27首发于<a href='https://ip2867.github.io/'>Ip2867</a>，最后修改于2025-12-27</p>]]>
       </description>
       
     </item>

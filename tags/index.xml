@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Ip2867</title>
-    <link>https://nanakusa77.github.io/ip2867.github-io/tags/</link>
+    <link>https://ip2867.github.io/tags/</link>
     <description>Recent content from Ip2867</description>
     <generator>Hugo</generator>
     <language>zh-CN</language>
@@ -13,7 +13,7 @@
     <copyright>本博客所有文章除特别声明外，均采用 BY-NC-SA 许可协议。转载请注明出处！</copyright>
     
     
-    <atom:link href="https://nanakusa77.github.io/ip2867.github-io/tags/index.xml" rel="self" type="application/rss&#43;xml" />
+    <atom:link href="https://ip2867.github.io/tags/index.xml" rel="self" type="application/rss&#43;xml" />
     
 
     
